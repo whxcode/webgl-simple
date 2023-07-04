@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+dist
+.idea
+.vsCode
+webpack.config.massimo.js
+*.orig
+.eslintcache
+unused.txt
+.vscode
+zip
+.history/
+fonts/font.js
+pnpm-lock.yaml
+yarn-error.log
